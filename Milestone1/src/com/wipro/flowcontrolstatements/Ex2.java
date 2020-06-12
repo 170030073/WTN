@@ -9,4 +9,5 @@ public class Ex2 {
 			System.out.println("The given number is odd");
 	}
 
+
 }
