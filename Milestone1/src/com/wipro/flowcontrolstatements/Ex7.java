@@ -4,7 +4,7 @@ public class Ex7 {
 	public static void main(String args[]) {
 		char c=args[0].charAt(0);
 		char c1;
-		int t,s;
+		int t;
 		t =(int) c;
 		if(c>='a'&&c<='z') {
 			t=t-32;
